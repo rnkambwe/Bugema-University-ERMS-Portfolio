@@ -210,7 +210,7 @@ The ERMS helped modernize the university's administrative processes by supportin
 
 # Confidentiality Notice
 
-This repository is intended solely to describe my professional experience and contributions to the Bugema University Electronic Records Management System (ERMS).
+This repository is intended solely to describe my professional experience and contributions to the Bugema University Educational Resource Management System (ERMS).
 
 The application, source code, architecture, database design, diagrams, documentation, workflows, and all related intellectual property belong to **Bugema University** and/or their respective owners.
 
