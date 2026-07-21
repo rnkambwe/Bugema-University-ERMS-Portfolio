@@ -233,7 +233,7 @@ The information presented here is limited to a high-level summary of my role, re
 
 # Acknowledgements
 
-I am grateful for the opportunity to have contributed to the implementation and support of the Bugema University Electronic Records Management System. The project provided valuable experience in systems analysis, enterprise application support, and collaborative problem-solving within a higher education environment.
+I am grateful for the opportunity to have contributed to the implementation and support of the Bugema University Educational Resource Management System. The project provided valuable experience in systems analysis, enterprise application support, and collaborative problem-solving within a higher education environment.
 
 ## Connect With Me
 
